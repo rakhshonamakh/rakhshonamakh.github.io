@@ -29,7 +29,7 @@ html {
 }
 
 body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Badd Mono', monospace;
     color: var(--text-dark);
     background-color: var(--text-light);
     line-height: 1.6;
